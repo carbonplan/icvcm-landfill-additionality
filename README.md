@@ -7,7 +7,7 @@
 </a>
 </p>
 
-# ton-year-quebec
+# icvcm-landfill-additionality
 The data and code used in https://carbonplan.org/research/icvcm-landfill-additionality
 
 ## license
